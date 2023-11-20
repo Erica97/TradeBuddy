@@ -61,7 +61,7 @@
 
 .header__menuItems a:hover,
 .header__menuItems a:active {
-  color: darkolivegreen;
+  color: #555843;
 }
 
 a:first-of-type {

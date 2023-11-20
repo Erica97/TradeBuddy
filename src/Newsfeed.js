@@ -55,7 +55,7 @@ function Newsfeed() {
         <div className="newsfeed__popularlists__section">
           <div className="newsfeed__popularlists__intro">
             <h1>Popular lists</h1>
-            <p>Show More</p>
+            <p>Show More...</p>
           </div>
           <div className="newsfeed_popularlists_badges">
             {popularTopics.map((topic) => (
