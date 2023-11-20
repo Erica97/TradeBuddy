@@ -7,7 +7,6 @@ body {
 }
 
 .app {
-  background-color: #9ed2c5;
   /* height: fit-content; */
   place-items: center;
 }
@@ -16,8 +15,7 @@ body {
 }
 
 .app__body {
-  /* make background black later */
-  background-color: #9ed2c5;
+  background: linear-gradient(#9ed2c5, 30%, #E4E4D0, 60%, #94A684);
   margin: 0;
   display: grid;
   place-items: center;
@@ -26,7 +24,6 @@ body {
 
 .app__container {
   display: flex;
-  background-color: #9ed2c5;
   padding-top: 36px;
   width: 1200px;
   /*box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);*/

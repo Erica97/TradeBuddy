@@ -30,17 +30,19 @@
 }
 
 .header__searchContainer > .MuiSvgIcon-root {
-  color: darkolivegreen;
+  color: #555843;
   padding: 2px;
 }
 
 .header__searchContainer > input {
+  font-size: 14px;
+  font-style: italic;
   border: thin solid transparent;
   width: 300px;
   margin-left: 2px;
   margin-right: 530px;
   background-color: transparent;
-  color: darkolivegreen;
+  color: #555843;
   padding: 1px;
 }
 
