@@ -12,23 +12,23 @@
 
 .newsfeed__chart__section {
   flex: 0.9;
-  background-color: #1E2023;
+  background-color: #3F3F44;
   border-radius: 5px 5px 0 0;
   padding: 10px 5px 5px 20px;
-  border-top: 3px solid #D0E7D2;
-  border-left: 3px solid #D0E7D2;
-  border-right: 3px solid #D0E7D2;
+  border-top: 4px solid #D0E7D2;
+  border-left: 4px solid #D0E7D2;
+  border-right: 4px solid #D0E7D2;
 }
 .newsfeed__buying__section {
   padding: 0px 20px 10px 20px;
   display: flex;
   justify-content: left;
-  background-color: #1E2023;
+  background-color: #3F3F44;
   border-radius: 0 0 5px 5px;
   margin-bottom: 10px;
-  border-left: 3px solid #D0E7D2;
-  border-right: 3px solid #D0E7D2;
-  border-bottom: 3px solid #D0E7D2;
+  border-left: 4px solid #D0E7D2;
+  border-right: 4px solid #D0E7D2;
+  border-bottom: 4px solid #D0E7D2;
 } 
 
 .newsfeed__market__section {
@@ -41,12 +41,12 @@
   height: 10vh;
   padding: 10px;
   border-radius: 5px;
-  background: linear-gradient(#E4E4D0, 55%, #D0E7D2);
-  border: 3px solid #D0E7D2;
+  background: #3F3F44;
+  border: 4px solid #D0E7D2;
 }
 
 .newsfeed__market__box p {
-  color: #618264;
+  color: #D0E7D2;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
@@ -57,8 +57,8 @@
   height: fit-content;
   padding-bottom: 10px;
   border-radius: 5px;
-  background-color: #1E2023;
-  border: 3px solid #D0E7D2;
+  background-color: #3F3F44;
+  border: 4px solid #D0E7D2;
 }
 
 .newsfeed__popularlists__intro {
@@ -70,7 +70,7 @@
 
 .newsfeed__popularlists__intro > p {
   font-weight: bold;
-  color: #D0D4CA;
+  color: #F5EAEA;
 }
 
 .newsfeed_popularlists_badges {
@@ -81,9 +81,9 @@
 }
 
 .newsfeed_popularlists_badges .topic__badge {
-  border: 3px solid #B0D9B1;
-  background-color:  #E4E4D0;
-  color: #555843;
+  border: 3px solid #7FCD91;
+  background-color:  #F5EAEA;
+  color: #4D4646;
   margin-right: 8px;
   margin-bottom: 8px;
   font-size: 12px;
